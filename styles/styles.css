@@ -262,7 +262,7 @@ section {
   padding-right: 3rem;
 }
 .about-container .left-about p {
-  line-height: 1.7rem;
+  line-height: 1.5rem;
   padding: 1rem;
   color: var(--color-grey-1);
 }
@@ -328,6 +328,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
   width: 50%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
+  width: 50%;
+}
 
 .stat-title {
   text-transform: uppercase;
@@ -386,16 +389,18 @@ section {
 .timeline .timeline-item h5 {
   padding: 1rem 0;
   text-transform: uppercase;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 .timeline .timeline-item h5 span {
   color: var(--color-grey-2);
-  font-weight: 500;
-  font-size: 1.2rem;
+  font-weight: 400;
+  font-size: 1.1rem;
 }
 .timeline .timeline-item p {
+  padding: 2rem 0;
   color: var(--color-grey-2);
+  font-size: 1rem;
 }
 
 .port-text {
