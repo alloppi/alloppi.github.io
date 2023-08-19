@@ -1,2 +1,2 @@
 # alloppi.github.io
-Technical Portfolio Web-Site to shows my programming projects
+Technical portfolio web site to show my programming projects
